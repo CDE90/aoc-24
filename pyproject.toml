@@ -1,0 +1,11 @@
+[project]
+name = "aoc-24"
+version = "0.1.0"
+description = "My Advent of Code 2024 solutions"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "types-requests>=2.32.0.20241016",
+]
